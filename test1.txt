@@ -1,1 +1,1 @@
-tạo mới file, sửa dươi local, sửa ở sub branch
+tạo mới file, sửa dươi local, commitở sub branch
